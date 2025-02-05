@@ -22,4 +22,3 @@ Analyzed football datasets to uncover performance trends, player statistics, and
 - Enhanced data wrangling and EDA skills.
 - Improved ability to derive actionable insights from large datasets.
 - Gained hands-on experience with predictive modeling and visualization tools.
-- You can adjust the details based on your specific project findings.
